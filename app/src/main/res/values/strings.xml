@@ -3,7 +3,13 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-
+    <!--    title-->
+    <string name="tv_title_name">Name:</string>
+    <string name="tv_title_species">Species:</string>
+    <string name="tv_title_gender">Gender:</string>
+    <string name="tv_title_status">Status:</string>
+    <string name="tv_title_location">Location:</string>
+    <string name="tv_title_episode">Episode:</string>
     <!--    error messages-->
     <string name="message_http_error">n unexpected error occurred</string>
     <string name="message_internet_connecton_error">😨 Wooops No internet connection</string>
