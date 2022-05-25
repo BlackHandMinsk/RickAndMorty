@@ -2,6 +2,8 @@ package com.example.rickandmorty.di
 
 
 import com.example.rickandmorty.domain.repository.CharacterRepository
+import com.example.rickandmorty.domain.usecases.GetRemoteCharacterUseCase
+import com.example.rickandmorty.domain.usecases.GetRemoteListCharactersUseCase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
