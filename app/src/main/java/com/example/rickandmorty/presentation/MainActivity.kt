@@ -1,8 +1,9 @@
-package com.example.rickandmorty
+package com.example.rickandmorty.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.findNavController
+import com.example.rickandmorty.R
 import com.example.rickandmorty.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
