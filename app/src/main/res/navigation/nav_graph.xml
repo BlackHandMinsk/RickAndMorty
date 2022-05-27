@@ -21,6 +21,6 @@
         tools:layout="@layout/fragment_characters_info" >
         <argument
             android:name="character_info"
-            app:argType="com.example.android.testram.domain.model.CharacterInfo" />
+            app:argType="com.example.rickandmorty.domain.model.CharacterInfo" />
     </fragment>
 </navigation>
