@@ -21,7 +21,7 @@ class CharactersAdapter @Inject constructor(
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CharacterViewHolder {
         val layoutInflater = LayoutInflater.from(parent.context)
-        val binding = ItemCharacterBinding.inflate(layoutInflater, parent, true)
+        val binding = ItemCharacterBinding.inflate(layoutInflater, parent, false)
         return CharacterViewHolder(binding)
     }
 
